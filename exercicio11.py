@@ -1,3 +1,7 @@
+"""Desafio: Receba duas entradas de horário e descubra a lógica por trás da saída.
+   Exemplo: Entrada 1: 03:45 - Entrada 2: 14:20 - Saída: 06:05
+   OBS: A lógica do algoritmo deve funcionar com qualquer entrada, mesmo diferente do exemplo"""
+
 hora1 = int(input("Digite a hora 1: "))
 minuto1 = int(input("Digite o minuto 1: "))
 hora2 = int(input("Digite a hora 2: "))

@@ -1,3 +1,5 @@
+#Receba três nomes e os exiba em apena uma linha e depois em três linhas diferentes.
+
 nome1 = input("Digite o primeiro nome: ")
 nome2 = input("Digite o segundo nome: ")
 nome3 = input("Digite o terceiro nome: ")

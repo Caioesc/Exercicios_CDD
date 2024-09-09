@@ -1,3 +1,5 @@
+#Faça um algoritmo receba a quantidade de gols de dois times e exiba o time vencedor.
+
 time1 = input("Digite o nome do primeiro time: ")
 goltime1 = int(input(f"Informe quantos gols o {time1} fez: "))
 time2 = input("Digite o nome do segundo time: ")
