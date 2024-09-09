@@ -1,4 +1,4 @@
-#
+#Processa os dados do usuário e realiza o cálculo do salário acresido de 10%
 
 nome = input("Digite seu nome: ")
 idade = int(input("Informe sua idade: "))
