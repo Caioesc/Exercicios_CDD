@@ -34,7 +34,7 @@ while escolha != 6:
             numero2 = int(input("Digite o novo valor para o segundo número: "))
 
     elif escolha == 6:
-        print("Programa encerrado.")
+        print("Programa encerrado!")
     else:
         print("Digite uma opção válida!")
 
