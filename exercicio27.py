@@ -10,7 +10,7 @@ for y in range(1, numero + 1):
                          22
                          333"""
 
-"""******************************numero = int(input("Digite um número: "))*************************************
+"""numero = int(input("Digite um número: "))
 
 for y in range(1, numero + 1):
     for x in range(y):
